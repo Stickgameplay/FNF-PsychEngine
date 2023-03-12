@@ -25,6 +25,7 @@ import openfl.system.System;
 @:fileXml('tags="haxe,release"')
 @:noDebug
 #end
+
 class FPS extends TextField
 {
 	/**
